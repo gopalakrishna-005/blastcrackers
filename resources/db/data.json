@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "10CM Electric (10 Pcs)",
+      "image_url": "https://cdn.dotpe.in/longtail/store-items/8231261/C2wAh5eG.webp",
+      "current_price": 20,
+      "previous_price": 50,
+      "isactive": true
+    },
+    {
+        "id": 2,
+        "name": "10CM Colour (10 Pcs)",
+        "image_url": "https://cdn.dotpe.in/longtail/store-items/8231261/U9m5UI0V.webp",
+        "current_price": 25,
+        "previous_price": 50,
+        "isactive": true
+      },
+      {
+        "id": 3,
+        "name": "10CM Red (10 Pcs)",
+        "image_url": "https://cdn.dotpe.in/longtail/store-items/8231261/yu3ej4Rz.webp",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      },
+
+      {
+        "id": 4,
+        "name": "10 CM ELECTRIC SPARKLER",
+        "image_url": "https://admin.kannancrackers.in/public/storage/product/sR9YLbQBRxPb9MO2kbSm5vJqAqTv8b-metaMTBjbS5qcGc=-.jpg",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      },
+      {
+        "id": 5,
+        "name": "12 CM COLOUR SPARKLER",
+        "image_url": "https://admin.kannancrackers.in/public/storage/product/UeVHA2TwmBgk0nvvsl05iTV2Vi8d2K-metaMTJjb2xvci5qcGc=-.jpg",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      },
+
+      {
+        "id": 6,
+        "name": "LAVENDER SPARKLERS 15CM(10PCS)",
+        "image_url": "https://standardcrackers.com/assets/uploads/product-featured-123.jpg",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      },
+
+      {
+        "id": 7,
+        "name": "FLOWERPOT SMALL(10PCS)",
+        "image_url": "https://standardcrackers.com/assets/uploads/product-featured-5.jpg",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      },
+      {
+        "id": 8,
+        "name": "JADE FLOWERS FOUNTAIN(5PCS)",
+        "image_url": "https://standardcrackers.com/assets/uploads/product-featured-138.jpg",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      },
+
+      {
+        "id": 9,
+        "name": "POPCORN FOUNTAIN (5PCS)",
+        "image_url": "https://standardcrackers.com/assets/uploads/product-featured-142.jpg",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      },
+
+      {
+        "id": 10,
+        "name": "LAVENDER FOUNTAIN (3PCS)",
+        "image_url": "https://standardcrackers.com/assets/uploads/product-featured-297.jpg",
+        "current_price": 30,
+        "previous_price": 55,
+        "isactive": true
+      }
+
+      
+
+  ]
