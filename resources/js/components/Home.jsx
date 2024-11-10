@@ -4,6 +4,7 @@ import Navigation from "../Navigation/Nav";
 import Products from "../Products/Products";
 import Recommended from "../Recommended/Recommended";
 import Sidebar from "../Sidebar/Sidebar";
+import OtpLogin from "./OtpLogin";
 
 
 
@@ -11,10 +12,12 @@ export default function Home(){
     
     return( 
         <>
-            <Sidebar />
+            {/* <Sidebar />
             <Navigation/>
             <Recommended />
-            <Products />
+            <Products /> */}
+
+            <OtpLogin />
         </>
     )
 }
